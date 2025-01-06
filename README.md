@@ -1,19 +1,28 @@
 # Kaggle Playground series - Forecasting Sticker Sales
 
+![image](https://github.com/user-attachments/assets/6f741cc5-d533-4f19-8856-814d931df0d3)
+
+
 ## Table of Contents:
-- [Competition Information and Dataset](https://github.com/Romold/Sticker-Forecasting-Kaggle/#competition-information)
+- [Dataset](https://github.com/Romold/Sticker-Forecasting-Kaggle/#dataset)
 - [Model Used](https://github.com/Romold/Sticker-Forecasting-Kaggle/#model-information)
-- 
-- [Author Info](https://github.com/Romold/Sticker-Forecasting-Kaggle/#author-info-)
+- [Evaluation Method](https://github.com/Romold/Sticker-Forecasting-Kaggle/#evaluation-method)
+- [Author Info](https://github.com/Romold/Sticker-Forecasting-Kaggle/#author-info)
 
-## Competition Information and Dataset
+## Dataset
 
-* [Competition Information](https://www.kaggle.com/competitions/playground-series-s5e1)
 * [Dataset](https://www.kaggle.com/competitions/playground-series-s5e1/data)
 
 ## Model Information
 
 * [RandomForestRegressor](https://scikit-learn.org/1.5/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
+
+## Evaluation Method
+
+* [MAPE ( Mean Absolute Percentage Error ) ](https://scikit-learn.org/dev/modules/generated/sklearn.metrics.mean_absolute_percentage_error.html)
+
+  ![image](https://github.com/user-attachments/assets/43d37ffe-13cc-4960-bcb7-aed13a9aae34)
+
 
 ## Author Info 
 
