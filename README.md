@@ -2,13 +2,18 @@
 
 ## Table of Contents:
 - [Competition Information and Dataset](https://github.com/Romold/Sticker-Forecasting-Kaggle/#competition-information)
-- [Author Info](https://github.com/alckasoc/Learning-Equality-Curriculum-Rec#author-info-)
+- [Model Used](https://github.com/Romold/Sticker-Forecasting-Kaggle/#model-information)
+- 
+- [Author Info](https://github.com/Romold/Sticker-Forecasting-Kaggle/#author-info-)
 
 ## Competition Information and Dataset
 
 * [Competition Information](https://www.kaggle.com/competitions/playground-series-s5e1)
 * [Dataset](https://www.kaggle.com/competitions/playground-series-s5e1/data)
 
+## Model Information
+
+* [RandomForestRegressor](https://scikit-learn.org/1.5/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
 
 ## Author Info 
 
