@@ -1,8 +1,9 @@
 # Kaggle Playground series - Forecasting Sticker Sales
 
-![image](https://github.com/user-attachments/assets/6f741cc5-d533-4f19-8856-814d931df0d3)
+![image](https://github.com/user-attachments/assets/074e28c0-74da-42f8-af4e-3f7c11f10d79)
 
 ## Table of Contents:
+
 - [Dataset](https://github.com/Romold/Sticker-Forecasting-Kaggle/#dataset)
 - [Model Used](https://github.com/Romold/Sticker-Forecasting-Kaggle/#model-information)
 - [Evaluation Method](https://github.com/Romold/Sticker-Forecasting-Kaggle/#evaluation-method)
