@@ -26,12 +26,12 @@
 
 ## Sources
 
-* This is for anyone who wants to study about time series. I found this series of lectures really helpful. I will be uploading the lecture notes I took into github in the near future as well.
+This is for anyone who wants to study about time series. I found this series of lectures really helpful. I will be uploading the lecture notes I took into github in the near future as well.
 
 * [Forecasting Principles and Practice](https://otexts.com/fpp3/intro.html)
 
   ![image](https://github.com/user-attachments/assets/c788041a-2959-4f33-be0d-4b38c16d6087)
-* 
+  
 
 ## Author Info 
 
