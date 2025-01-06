@@ -1,20 +1,76 @@
-# Sticker Forecasting Kaggle Competition
+[Insert banner and badges here]
 
-## Table of Contents:  
-- [Book Recommendation](https://github.com/Romold/FreeCodeCamp-ML/blob/main/fcc-book-recommendation.ipynb)
-- [Cat and Dog identifier using a Simple CNN](https://github.com/Romold/FreeCodeCamp-ML/blob/main/fcc-cat-dog.ipynb)
-- [SMS Text Classification](https://github.com/Romold/FreeCodeCamp-ML/blob/main/fcc-sms-text-classification.ipynb)
-- [Health Prediction](https://github.com/Romold/FreeCodeCamp-ML/blob/main/fcc-health-prediction.ipynb)
+# Kaggle Getting Started Competition - Forecasting Sticker Sales
 
-## Sources 
-- The sources of the respective datasets have been linked by the relevant party ( In this case FCC ) at the beginning of the Notebook if you are interested in using them.
+## Table of Contents:
+- [Requirements & Usage](https://github.com/alckasoc/Learning-Equality-Curriculum-Rec#requirements--usage-)
+- [Datasets](https://github.com/alckasoc/Learning-Equality-Curriculum-Rec#datasets-)
+- [Structure](https://github.com/alckasoc/Learning-Equality-Curriculum-Rec#structure-)
+- [Difficulties](https://github.com/alckasoc/Learning-Equality-Curriculum-Rec#difficulties-)
+- [Author Info](https://github.com/alckasoc/Learning-Equality-Curriculum-Rec#author-info-)
+- [References](https://github.com/alckasoc/Learning-Equality-Curriculum-Rec#references-)
+- [Thank you!](https://github.com/alckasoc/Learning-Equality-Curriculum-Rec#thank-you-)
 
-## Optimization Techniques
-- [EarlyStopping](https://keras.io/api/callbacks/early_stopping/)
+##  🛑 Requirements & Usage
 
-## Certification 
+[Insert more details about requirements (e.g. compute hardware, python  version, etc)]
 
-![image](https://github.com/user-attachments/assets/97bf313f-cd96-446e-bf3c-7752d48de7be)
+If you haven't already, we recommend using a *virtual environment* before cloning. For more information on the package system we use, check out [Anaconda](https://www.anaconda.com/). Also, this repository itself is not large, but we recommend having **at least 20 GB** available if you plan on testing code. The competition dataset is roughly **1 GB**. 
+
+1. Clone this repo to your local machine.
+
+```
+$ git clone https://github.com/alckasoc/Learning-Equality-Curriculum-Rec
+```
+
+2. Install the requirements.
+
+```
+$ pip install -r requirements.txt
+```
+
+3. Download the competition data [here](https://www.kaggle.com/competitions/learning-equality-curriculum-recommendations/data).
+
+4. Move the downloaded zip file which should be called `learning-equality-curriculum-recommendations.zip` into the `input` folder.
+
+5. Extract the zip file into `input`. Rename the newly created folder which should be `learning-equality-curriculum-recommendations` to `competition_data`.
 
 
+## 🗃️ Datasets 
 
+[Insert dataset links here]
+
+* [Competition data](https://www.kaggle.com/competitions/learning-equality-curriculum-recommendations/data)
+* [Huggingface BERT Variants](https://www.kaggle.com/datasets/sauravmaheshkar/huggingface-bert-variants) by SAURAV MAHESHKAR ☕️
+* [LECR mDistilBERT Sentence Vector](https://www.kaggle.com/datasets/takamichitoda/lecr-mdistilbert-sentence-vector) by LECR mDistilBERT Sentence Vector
+* [sbert models](https://www.kaggle.com/datasets/shkanda/sbert-models) by APOLO
+
+## 📂 Structure 
+
+[Insert text about the structure of the repo/organization; add folder tree diagram]
+
+* `custom` is a folder for custom code and community code
+* `diagrams` houses all diagrams used
+* `img` is for images
+* `input` contains competition data, and other data
+* `models` stores our saved models
+* `src` is source code
+
+## 💢 Difficulties 
+
+[Insert text about difficulties]
+
+## 📙 Author Info 
+
+| Author              | Links            |
+| :-----------------: | :--------------: |
+| Catherine Rasgaitis | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/crasgaitis) [![Kaggle Badge](https://img.shields.io/badge/Kaggle-1DA1F2?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/catherinerasgaitis) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catherine-rasgaitis/) |
+| Vincent Tu          | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alckasoc) [![Kaggle Badge](https://img.shields.io/badge/Kaggle-1DA1F2?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/vincenttu) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-tu-422b18208/) |
+
+## 👍 References 
+
+For information on references and resources, refer to `resources.md`.
+
+## 👋 Thank you! 
+
+[Insert thank you note!]
