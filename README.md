@@ -2,11 +2,11 @@
 
 ![image](https://github.com/user-attachments/assets/6f741cc5-d533-4f19-8856-814d931df0d3)
 
-
 ## Table of Contents:
 - [Dataset](https://github.com/Romold/Sticker-Forecasting-Kaggle/#dataset)
 - [Model Used](https://github.com/Romold/Sticker-Forecasting-Kaggle/#model-information)
 - [Evaluation Method](https://github.com/Romold/Sticker-Forecasting-Kaggle/#evaluation-method)
+- [Sources](https://github.com/Romold/Sticker-Forecasting-Kaggle/#sources)
 - [Author Info](https://github.com/Romold/Sticker-Forecasting-Kaggle/#author-info)
 
 ## Dataset
@@ -23,6 +23,13 @@
 
   ![image](https://github.com/user-attachments/assets/43d37ffe-13cc-4960-bcb7-aed13a9aae34)
 
+## Model Information
+
+* This is for anyone who wants to study about time series. I found this series of lectures really helpful. I will be uploading the lecture notes I took into github in the near future as well.
+
+* [Time Series](https://otexts.com/fpp3/intro.html)
+
+  ![image](https://github.com/user-attachments/assets/c788041a-2959-4f33-be0d-4b38c16d6087)
 
 ## Author Info 
 
